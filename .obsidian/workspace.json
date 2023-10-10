@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "5f575f39349bc4a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "85db5afcb62ebeea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e8b7256e5802200",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "ГОСТ 27005.md"
+              }
+            }
+          },
+          {
+            "id": "c1c37636e058d9ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Организация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cee159e3c8ae33cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Цель организации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8731cb3e654a1989",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "387a959807c751df",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd46567ade8b7e8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e54656c0e71aaa5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e36d0fb2c05b1a7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f3bc61c2625092e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61b6935c6f7d47ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddb5194d81aa9e18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a58d597ba0e4314",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Организация.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9fca93e5506b228",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Организация.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dca44720d76e3e2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9fbdf30eee1d41a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Организация.md"
+              }
+            }
+          },
+          {
+            "id": "1d53a69de625dd17",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "random-note:Открыть случайную заметку": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e54656c0e71aaa5e",
+  "lastOpenFiles": [
+    "Структура организации.md",
+    "Организация.md",
+    "ГОСТ 27005.md",
+    "Бизнес-процессы организации.md",
+    "vault/README.md",
+    "vault",
+    "Цель организации.md",
+    "source/ГОСТ 27005.pdf",
+    "source",
+    "Структура организации"
+  ]
+}
