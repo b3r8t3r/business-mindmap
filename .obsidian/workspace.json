@@ -11,9 +11,11 @@
             "id": "2e8b7256e5802200",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "ГОСТ 27005.md"
+                "file": "Бизнес-процессы организации.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -57,12 +59,8 @@
             "id": "9e6df64515f7d669",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -72,9 +70,33 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "57d39f9396ec288b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бизнес-процессы организации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50a7f5153cdbf87f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сотрудник ИБ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -140,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Сотрудник ИБ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Сотрудник ИБ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Сотрудник ИБ.md"
               }
             }
           },
@@ -216,18 +238,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e6df64515f7d669",
+  "active": "50a7f5153cdbf87f",
   "lastOpenFiles": [
-    "Топология сети.md",
-    "README.md",
-    "source/topology.png",
-    "Цель организации.md",
-    "Организация.md",
     "Бизнес-процессы организации.md",
-    "Без названия",
-    "source/process.png",
-    "ГОСТ 27005.md",
+    "Сотрудник ИБ.md",
+    "Цель организации.md",
+    "Топология сети.md",
     "Структура организации.md",
+    "Организация.md",
+    "ГОСТ 27005.md",
+    "source/process.png",
+    "source/topology.png",
+    "README.md",
+    "Без названия",
     "vault/README.md",
     "vault",
     "source/ГОСТ 27005.pdf",
